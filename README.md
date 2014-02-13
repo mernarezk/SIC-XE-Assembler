@@ -1,4 +1,4 @@
 SIC-XE-Assembler
 ================
 
-A simple two pass SIC/XE assembler (Pass 1)
+A simple two pass SIC/XE assembler
